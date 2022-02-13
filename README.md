@@ -3,7 +3,7 @@
    In this project, I learn how to show and hide content using && operator in reactjs
 <!-- DEMO -->
  
-### [Demo](https://jyotip101.github.io/accordion-in-react/)
+### [Demo](https://thejyotipatel.github.io/accordion-in-react/)
 
 <!-- TABLE OF CONTENTS -->
 
